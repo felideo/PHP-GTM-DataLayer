@@ -11,8 +11,8 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr-0": {
-            "Felideo\\PHP-GTM-DataLayer": "PHP-GTM-DataLayer/"
+        "psr-4": {
+            "Felideo\\GTM\\": "src/"
         }
     }
 }
